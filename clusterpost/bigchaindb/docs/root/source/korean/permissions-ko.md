@@ -56,3 +56,5 @@ Note
 ## 역할 기반 액세스 제어(RBAC)
 
 2017년 9월에, 우리는 [BigchainDB RBAC 하부 시스템을 정의 할 수 있는 방법에 대한 블로그 게시물](https://blog.bigchaindb.com/role-based-access-control-for-bigchaindb-assets-b7cada491997)을 게재 했습니다. 글을 쓴 시점(2018년 1월)에는 플러그인을 사용해야 해서, 표준 BigchainDB(다음에서 사용가능한 [BigchainDB Testnet](https://testnet.bigchaindb.com/) 를 사용 할 수 없었습니다. 이는 미래에 바뀔 수 있습니다. 만약 관심이 있다면, [BigchainDB로 연락하십시요.](https://www.bigchaindb.com/contact/)
+
+<!-- Auto-update: 2025-10-09T22:43:36.091199 -->
